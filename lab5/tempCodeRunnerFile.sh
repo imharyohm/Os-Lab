@@ -1,0 +1,1 @@
+echo The sum of digits is $sum.
